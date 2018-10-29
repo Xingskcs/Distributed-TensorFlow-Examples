@@ -25,7 +25,7 @@ FLAGS = tf.app.flags.FLAGS
 
 # Global variables
 learning_rate = 0.001
-training_steps = 100000
+training_steps = 10000
 batch_size = 128
 
 num_input = 28 # MNIST data input (img shape: 28*28)
